@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Attendance Management (Shiksha Connect)
 
 A complete full-stack attendance management system with QR code scanning, role-based access (Admin / Teacher), and PostgreSQL persistence.
@@ -176,3 +177,7 @@ If your browser blocks the camera, click the camera icon in the URL bar and gran
 ## License
 
 MIT
+=======
+# Shiksha-Connect
+A smart automated attendance system for rural schools that simplifies tracking, reduces manual work, and ensures accurate digital records.
+>>>>>>> 25001b844ac53dc50143d9f35087e1706adbe186
