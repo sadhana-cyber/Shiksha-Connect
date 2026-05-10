@@ -75,6 +75,7 @@ function SchoolIllustration() {
     </svg>
   );
 }
+//Modal function
 
 function Modal({ message, onConfirm, onCancel, confirmLabel = "Save", cancelLabel = "Cancel" }) {
   return (
