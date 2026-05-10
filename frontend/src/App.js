@@ -37,7 +37,7 @@ async function api(path, opts = {}) {
   return data;
 }
 
-// ---------- presentational components (UI unchanged) ----------
+// ---------- presentational components (UI changed) ----------
 function SchoolIllustration() {
   return (
     <svg viewBox="0 0 320 260" className="w-full max-w-xs mx-auto" fill="none">
@@ -75,7 +75,7 @@ function SchoolIllustration() {
     </svg>
   );
 }
-//Modal function
+//Modal Function
 
 function Modal({ message, onConfirm, onCancel, confirmLabel = "Save", cancelLabel = "Cancel" }) {
   return (
